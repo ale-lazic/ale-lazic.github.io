@@ -1,0 +1,10 @@
+name: "."
+title: "Aleksandra Lazic"
+description: |
+  Aleksandra Lazic
+output_dir: "docs"
+navbar:
+  right:
+    - text: "About"
+      href: index.html
+output: distill::distill_article
