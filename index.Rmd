@@ -14,7 +14,7 @@ links:
   - label: ORCID
     url: "http://orcid.org/0000-0002-0433-0483"
   - label: Google Scholar
-    url: "http://scholar.google.com/citations?user==DOFXaPYAAAAJ&hl=en"
+    url: "https://scholar.google.com/citations?hl=en&user=DOFXaPYAAAAJ"
   - label: ResearchGate
     url: "https://researchgate.net/profile/Aleksandra_Lazic2"
   - label: ImpactStory
