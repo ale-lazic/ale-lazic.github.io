@@ -33,7 +33,7 @@ My PhD project explores how people make vaccination decisions and its implicatio
 
 I developed and lead LIRA's open repository of psychological instruments in Serbian ([REPOPSI](https://osf.io/5zb8p/)).
 
-In my spare time, I like to draw, co-organize [#ScienceReadingClubBelgrade] (https://twitter.com/search?q=%23ScienceReadingClubBelgrade&src=hashtag_click&f=live), and teach myself R. I created this website with [{distill}](https://rstudio.github.io/distill/) and [{postcards}](https://github.com/seankross/postcards).
+In my spare time, I like to draw, do [#SciComm](https://alelazic.blogspot.com) & co-organize [#ScienceReadingClubBelgrade](https://twitter.com/search?q=%23ScienceReadingClubBelgrade&src=hashtag_click&f=live), and teach myself R. I created this website with [{distill}](https://rstudio.github.io/distill/) and [{postcards}](https://github.com/seankross/postcards).
 
 ## Research interests
 
