@@ -17,7 +17,7 @@
 html {
   /*-- Main font sizes --*/
   --title-size:      50px;
-  --body-size:       1.06rem;
+  --body-size:       1rem;
   --code-size:       14px;
   --aside-size:      12px;
   --fig-cap-size:    13px;
@@ -30,7 +30,7 @@ html {
   /*-- Specify custom fonts ~~~ must be imported above   --*/
   --heading-font:    Roboto Slab;
   --mono-font:       Roboto Slab;
-  --body-font:       Roboto Slab;
+  --body-font:       Roboto;
   --navbar-font:     Roboto Slab;  /* websites + blogs only */
 }
 
@@ -60,3 +60,18 @@ d-appendix {
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
 
+d-article a:link {
+  color: #007bff;
+  text-decoration: none;
+  border-bottom: none;
+}
+
+d-article a:hover {
+  color: #0056b3;
+  text-decoration: none;
+  border-bottom: 1px solid;
+}
+
+d-article {
+    line-height: 1.4em;
+}
