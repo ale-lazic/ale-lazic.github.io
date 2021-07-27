@@ -1,5 +1,6 @@
 name: "."
 title: "Aleksandra Lazic"
+theme: mytheme.css
 description: |
   Aleksandra Lazic
 output_dir: "docs"

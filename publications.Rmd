@@ -10,16 +10,16 @@ output:
 ---
 #### SELECTED PEER-REVIEWED JOURNAL ARTICLES
 
-- **Lazić, A.**, Purić, D., & Krstić, K. (2021). Does parochial cooperation exist in childhood and adolescence? A meta-analysis. *International Journal of Psychology*. https://doi.org/10.1002/ijop.12791
+Lazić, A., Purić, D., & Krstić, K. (2021). [Does parochial cooperation exist in childhood and adolescence? A meta-analysis](https://doi.org/10.1002/ijop.12791). *International Journal of Psychology*.
 
-  [[Free Eprint]](https://onlinelibrary.wiley.com/share/author/KAFHHZHEVUC8KXNBAWGU?target=10.1002/ijop.12791) [[Preprint]](https://psyarxiv.com/uexmr) [[Open Data]](https://osf.io/f7uwz/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1410984195623694337?s=20)
+- [[Free Eprint]](https://onlinelibrary.wiley.com/share/author/KAFHHZHEVUC8KXNBAWGU?target=10.1002/ijop.12791) [[Preprint]](https://psyarxiv.com/uexmr) [[Open Data]](https://osf.io/f7uwz/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1410984195623694337?s=20)
 
-- **Lazić, A.**, & Žeželj, I. (2021). A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation. *Public Understanding of Science*, *30*(6), 644–670. https://doi.org/10.1177/09636625211011881
+Lazić, A., & Žeželj, I. (2021). [A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation](https://doi.org/10.1177/09636625211011881). *Public Understanding of Science*, *30*(6), 644–670.
 
-  [[Accepted Article]](https://psyarxiv.com/g5r8z/) [[Open Data]](https://osf.io/4d5rp/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1395041770560446471)
+- [[Accepted Article]](https://psyarxiv.com/g5r8z/) [[Open Data]](https://osf.io/4d5rp/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1395041770560446471)
 
--  Teovanović, P., Lukić, P., Zupan, Z., **Lazić, A.**, Ninković, M., Žeželj, I. (2021). Irrational beliefs differentially predict adherence to guidelines and pseudoscientific practices during the COVID-19 pandemic. *Applied Cognitive Psychology*, *35*(2), 486–496. https://doi.org/10.1002/acp.3770
+Teovanović, P., Lukić, P., Zupan, Z., Lazić, A., Ninković, M., Žeželj, I. (2021). [Irrational beliefs differentially predict adherence to guidelines and pseudoscientific practices during the COVID-19 pandemic](https://doi.org/10.1002/acp.3770). *Applied Cognitive Psychology*, *35*(2), 486–496.
 
 #### SELECTED PEER-REVIEWED CONFERENCE PAPERS
 
-- **Lazić, A.**, Lazarević L. B., Purić, D., & Žeželj, I. (2021). REPOPSI: The open repository of psychological instruments in Serbian. In N. Miljković, P. Pejović, & M. Cvetanović (Eds.), *Proceedings of the Third National Conference with International Participation titled Application of free software and open hardware PSSOH 2020* (pp. 51–56). University of Belgrade School of Electrical Engineering and Academic Mind. https://doi.org/10.5281/zenodo.4064293
+Lazić, A., Lazarević L. B., Purić, D., & Žeželj, I. (2021). [REPOPSI: The open repository of psychological instruments in Serbian](https://doi.org/10.5281/zenodo.4064293). In N. Miljković, P. Pejović, & M. Cvetanović (Eds.), *Proceedings of the Third National Conference with International Participation titled Application of free software and open hardware PSSOH 2020* (pp. 51–56). University of Belgrade School of Electrical Engineering and Academic Mind.
