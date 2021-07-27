@@ -11,10 +11,10 @@ output:
 #### SELECTED PEER-REVIEWED JOURNAL ARTICLES
 
 - **Lazić, A.**, Purić, D., & Krstić, K. (2021). Does parochial cooperation exist in childhood and adolescence? A meta-analysis. *International Journal of Psychology*. https://doi.org/10.1002/ijop.12791
-  
+
   [[Free Eprint]](https://onlinelibrary.wiley.com/share/author/KAFHHZHEVUC8KXNBAWGU?target=10.1002/ijop.12791) [[Preprint]](https://psyarxiv.com/uexmr) [[Open Data]](https://osf.io/f7uwz/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1410984195623694337?s=20)
 
-- **Lazić, A.**, & Žeželj, I. (2021). A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation. *Public Understanding of Science*. https://doi.org/10.1177/09636625211011881 
+- **Lazić, A.**, & Žeželj, I. (2021). A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation. *Public Understanding of Science*, *30*(6), 644–670. https://doi.org/10.1177/09636625211011881
 
   [[Accepted Article]](https://psyarxiv.com/g5r8z/) [[Open Data]](https://osf.io/4d5rp/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1395041770560446471)
 
