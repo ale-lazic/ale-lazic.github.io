@@ -27,9 +27,11 @@ output:
 
 ## About me
 
-I am a social psychology PhD candidate and research assistant at the University of Belgrade Department of Psychology ([LIRA](https://lira.f.bg.ac.rs/en/)). 
+I am a social psychology PhD Candidate and Research Assistant at the University of Belgrade Department of Psychology ([LIRA](https://lira.f.bg.ac.rs/en/)). 
 
-My PhD project explores how people make vaccination decisions and its implications for public communication, using online experiments and media content analysis. More broadly, I am interested in how people decide to help others and contribute to the public good.
+My PhD project explores how people make vaccination decisions and its implications for public communication, using online experiments and media content analysis. More broadly, I am interested in how people decide to help others and contribute to the public good. 
+
+A list of my selected publications can be found [here](https://ale-lazic.github.io/publications.html). My appearances in the media are listed [here](https://alelazic.blogspot.com/p/other-places.html).
 
 I developed and lead LIRA's open repository of psychological instruments in Serbian ([REPOPSI](https://osf.io/5zb8p/)).
 

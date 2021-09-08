@@ -74,3 +74,9 @@ d-article a:hover {
 d-article {
     line-height: 1.4em;
 }
+
+d-article a:visited {
+  color: #007bff;
+  text-decoration: none;
+  border-bottom: none;
+}
