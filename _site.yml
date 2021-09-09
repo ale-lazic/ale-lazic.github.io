@@ -6,10 +6,10 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    - text: "Publications"
-      href: publications.html
-    - text: "Blog"
-      href: https://alelazic.blogspot.com/
     - text: "About"
       href: index.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Contact"
+      href: contact.html
 output: distill::distill_article

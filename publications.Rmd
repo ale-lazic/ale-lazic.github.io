@@ -1,7 +1,6 @@
 ---
 title: "Publications"
 description: |
-  Please contact me for full-text copies of any paywalled articles.
 output: 
   distill::distill_article:
     toc: false
@@ -12,24 +11,26 @@ output:
 
 Lazić, A., Kalinova, K. N., Packer, J., Pae, R., Petrović, M. B., Popović, D., Sievert, D. E. C., & Stafford-Johnson, N. (2021). [Social nudges for vaccination: How communicating herd behaviour influences vaccination intentions]( https://doi.org/10.1111/bjhp.12556). *British Journal of Health Psychology*.
 
-[[Open Data]](https://osf.io/zb7s3/) [[Stage 1 Registered Report]](https://osf.io/jpku3)
-
 <details>
   <summary>
   <font size="3">Abstract</font>
   </summary>
   
-<font size="3">Objectives: This Registered Report attempted to conceptually replicate the finding that communicating herd immunity increases vaccination intentions (Betsch, et al., 2017, *Nat. Hum. Behav.*, 0056). An additional objective was to explore the roles of descriptive social norms (vaccination behaviour of others) and the herd-immunity threshold (coverage needed to stop disease transmission).
-Design: An online experiment with a 2 (herd-immunity explanation: present vs. absent) × 3 (descriptive norm: high vs. low vs. absent) × 2 (herd-immunity threshold: present vs. absent) between-subjects fractional design.
-Methods: Sample consisted of 543 people (aged 18–64) residing in the United Kingdom. Participants first received an explanation of herd immunity emphasising social benefits (protecting others) in both textual and animated-infographic form. Next, they were faced with fictitious information about the disease, the vaccine, their country’s vaccination coverage (80% or 20%), and the herd-immunity threshold (90%). Vaccination intention was self-rated.
-Results: Compared to the control, communicating social benefits of herd immunity was effective in increasing vaccination intentions (*F*(1,541) = 6.97, *p* = .009, Partial Eta-Squared = 0.013). Communicating the descriptive norm or the herd-immunity threshold alongside the herd-immunity explanation demonstrated no observable effect.
-Conclusion: Communicating social benefits of herd immunity increased self-reported vaccination intentions against a fictitious disease, replicating previous findings. Although this result is positive, the practical relevance may be limited. Further research into the effect of social nudges to motivate vaccination is required, particularly with respect to the recent pandemic context and varying levels of vaccine hesitancy.</font>
+<font size="3">This Registered Report attempted to conceptually replicate the finding that communicating herd immunity increases vaccination intentions (Betsch, et al., 2017, *Nat. Hum. Behav.*, 0056). An additional objective was to explore the roles of descriptive social norms (vaccination behaviour of others) and the herd-immunity threshold (coverage needed to stop disease transmission). An online experiment with a 2 (herd-immunity explanation: present vs. absent) × 3 (descriptive norm: high vs. low vs. absent) × 2 (herd-immunity threshold: present vs. absent) between-subjects fractional design. Sample consisted of 543 people (aged 18–64) residing in the United Kingdom. Participants first received an explanation of herd immunity emphasising social benefits (protecting others) in both textual and animated-infographic form. Next, they were faced with fictitious information about the disease, the vaccine, their country’s vaccination coverage (80% or 20%), and the herd-immunity threshold (90%). Vaccination intention was self-rated. Compared to the control, communicating social benefits of herd immunity was effective in increasing vaccination intentions (*F*(1,541) = 6.97, *p* = .009, Partial Eta-Squared = 0.013). Communicating the descriptive norm or the herd-immunity threshold alongside the herd-immunity explanation demonstrated no observable effect. Communicating social benefits of herd immunity increased self-reported vaccination intentions against a fictitious disease, replicating previous findings. Although this result is positive, the practical relevance may be limited. Further research into the effect of social nudges to motivate vaccination is required, particularly with respect to the recent pandemic context and varying levels of vaccine hesitancy.</font>
+</details>
+
+<details>
+  <summary>
+  <font size="3">Relevant Links</font>
+  </summary>
+
+<font size="3">[[Open Data]](https://osf.io/zb7s3/)
+[[Stage 1 Registered Report]](https://osf.io/jpku3)
+[[Twiter Thread]](https://twitter.com/AleLazic/status/1435910985953562624)</font>
 </details>
 
 <br>
 Lazić, A., Purić, D., & Krstić, K. (2021). [Does parochial cooperation exist in childhood and adolescence? A meta-analysis](https://doi.org/10.1002/ijop.12791). *International Journal of Psychology*.
-
-[[Free Eprint]](https://onlinelibrary.wiley.com/share/author/KAFHHZHEVUC8KXNBAWGU?target=10.1002/ijop.12791) [[Preprint]](https://psyarxiv.com/uexmr) [[Open Data]](https://osf.io/f7uwz/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1410984195623694337?s=20)
 
 <details>
   <summary>
@@ -39,10 +40,16 @@ Lazić, A., Purić, D., & Krstić, K. (2021). [Does parochial cooperation exist 
 <font size="3">Although previous meta-analytic evidence supports the existence of parochialism in cooperation among adults, the extent to which children and adolescents are more willing to incur a personal cost to benefit ingroups, compared to outgroups, is not yet clear. We provide the first meta-analysis on the existence and magnitude of parochialism in cooperation among pre-adults. Based on 20 experimental economics studies (*k* = 69, *N* = 5268, age = 3–19, 12 countries, published 2008–2019), a multilevel meta-analytic model revealed a small overall effect size indicating that children and adolescents were more cooperative towards ingroups (*d* = 0.22, 95% CI [0.07, 0.38]). A series of single-moderator analyses tested for the following conditions: participant age and sex; game type ([mini-]dictator game, prisoner's dilemma, public goods dilemma, trust game, ultimatum game); outcome interdependence; membership manipulation (between- vs. within-subjects); group type (natural vs. experimental); reward type (monetary vs. non-monetary); and country of the participant. Parochial cooperation did not vary with participants' age. Parochialism was larger in non-interdependent (dictator-type) compared to interdependent (bargaining and social dilemma) games. There were no moderating effects of group type, membership manipulation or reward type. To provide more data on how parochialism develops, primary studies should report age ranges more precisely and use more restricted age groups.</font>
 </details>
 
+<details>
+  <summary>
+  <font size="3">Relevant Links</font>
+  </summary>
+  
+<font size="3">[[Free Eprint]](https://onlinelibrary.wiley.com/share/author/KAFHHZHEVUC8KXNBAWGU?target=10.1002/ijop.12791) [[Preprint]](https://psyarxiv.com/uexmr) [[Open Data]](https://osf.io/f7uwz/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1410984195623694337?s=20)</font>
+</details>
+
 <br>
 Lazić, A., & Žeželj, I. (2021). [A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation](https://doi.org/10.1177/09636625211011881). *Public Understanding of Science*, *30*(6), 644–670.
-
-[[Accepted Article]](https://psyarxiv.com/g5r8z/) [[Open Data]](https://osf.io/4d5rp/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1395041770560446471)
 
 <details>
   <summary>
@@ -52,10 +59,15 @@ Lazić, A., & Žeželj, I. (2021). [A systematic review of narrative interventio
 <font size="3">Even if a small portion of the population refuses vaccination due to anti-vaccination conspiracy theories or misinformation, this poses a threat to public health. We argue that addressing conspiracy theories with only corrective information is not enough. Instead, considering that they are complex narratives embedded in personal and cultural worldviews, they should be encountered with counternarratives. To identify existing narrative interventions aimed at countering anti-vaccination conspiracy theories and, more generally, map prerequisites for a narrative intervention to be successful, we present a systematic review of experimental effects of exposure to pro-vaccine narratives on a range of vaccination outcomes, based on 17 studies and 97 comparisons. We did not find any narrative interventions aimed directly at conspiracy theories. However, the review allowed us to make evidence-based recommendations for future research and for public communicators. This might help pro-vaccine communication match anti-vaccine communication in its potential to spread and go viral.</font>
 </details>
 
+<details>
+  <summary>
+  <font size="3">Relevant Links</font>
+  </summary>
+<font size="3">[[Accepted Article]](https://psyarxiv.com/g5r8z/) [[Open Data]](https://osf.io/4d5rp/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1395041770560446471)</font>
+</details>
+
 <br>
 Teovanović, P., Lukić, P., Zupan, Z., Lazić, A., Ninković, M., Žeželj, I. (2021). [Irrational beliefs differentially predict adherence to guidelines and pseudoscientific practices during the COVID-19 pandemic](https://doi.org/10.1002/acp.3770). *Applied Cognitive Psychology*, *35*(2), 486–496.
-
-[[Open Data]](https://osf.io/9njp3/)
 
 <details>
   <summary>

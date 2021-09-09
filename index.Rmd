@@ -3,24 +3,14 @@ title: "Aleksandra Lazić"
 site: distill::distill_website
 image: "alelazic.png"
 links:
+  - label: My Publications
+    url: "https://ale-lazic.github.io/publications.html"
+  - label: Blog
+    url: "https://alelazic.blogspot.com/"
   - label: Twitter
     url: "https://twitter.com/alelazic"
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/alelazic/"
-  - label: OSF
-    url: "https://osf.io/x8bm2/"
-  - label: GitHub
-    url: "https://github.com/ale-lazic"
-  - label: ORCID
-    url: "http://orcid.org/0000-0002-0433-0483"
-  - label: Google Scholar
-    url: "https://scholar.google.com/citations?hl=en&user=DOFXaPYAAAAJ"
-  - label: ResearchGate
-    url: "https://researchgate.net/profile/Aleksandra_Lazic2"
-  - label: ImpactStory
-    url: "https://impactstory.org/u/0000-0002-0433-0483"
-  - label: Email
-    url: "mailto:aleksandra.lazic@f.bg.ac.rs"
+  - label: Contact me
+    url: "https://ale-lazic.github.io/contact.html"
 output:
   postcards::trestles
 ---
@@ -29,9 +19,7 @@ output:
 
 I am a social psychology PhD Candidate and Research Assistant at the University of Belgrade Department of Psychology ([LIRA](https://lira.f.bg.ac.rs/en/)). 
 
-My PhD project explores how people make vaccination decisions and its implications for public communication, using online experiments and media content analysis. More broadly, I am interested in how people decide to help others and contribute to the public good. 
-
-A list of my selected publications can be found [here](https://ale-lazic.github.io/publications.html). My appearances in the media are listed [here](https://alelazic.blogspot.com/p/other-places.html).
+My PhD project explores how people make vaccination decisions and its implications for public communication, using online experiments and media content analysis. More broadly, I am interested in how people decide to help others and contribute to the public good.
 
 I developed and lead LIRA's open repository of psychological instruments in Serbian ([REPOPSI](https://osf.io/5zb8p/)).
 
@@ -46,3 +34,11 @@ vaccination decision-making, public health communication, cooperation, altruism,
 University of Belgrade | M.A. in Psychology | 2016
 
 University of Belgrade | B.A. in Psychology | 2015
+
+## Experience
+
+Univ. of Belgrade Faculty of Philosophy | Research Assistant | Feb 2021 - Present
+
+Univ. of Belgrade Faculty of Philosophy | Junior Research Assistant | May 2019 - Feb 2021
+
+Univ. of Belgrade Institute for Philosophy and Social Theory | Junior Research Assistant | Jun 2018 - Apr 2019
