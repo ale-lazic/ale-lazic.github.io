@@ -1,7 +1,7 @@
 ---
 title: "Let's Connect!"
 site: distill::distill_website
-image: "alelazic.png"
+image: "trinity-nguyen-5r9mk1ngjN8-unsplash-modified.png"
 links:
   - label: Twitter
     url: "https://twitter.com/alelazic"
