@@ -17,6 +17,8 @@ links:
     url: "https://scholar.google.com/citations?hl=en&user=DOFXaPYAAAAJ"
   - label: Publons
     url: "https://publons.com/researcher/3883805/aleksandra-lazic/"
+  - label: Scopus
+    url: "https://www.scopus.com/authid/detail.uri?authorId=57220189240"
   - label: ResearchGate
     url: "https://researchgate.net/profile/Aleksandra_Lazic2"
   - label: ImpactStory

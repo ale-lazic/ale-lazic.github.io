@@ -3,13 +3,15 @@ title: "Aleksandra Lazić"
 site: distill::distill_website
 image: "alelazic.png"
 links:
-  - label: My Publications
+  - label: CV
+    url: "https://ale-lazic.github.io/cv.html" 
+  - label: Selected Publications
     url: "https://ale-lazic.github.io/publications.html"
-  - label: Blog
-    url: "https://alelazic.blogspot.com/"
   - label: Twitter
     url: "https://twitter.com/alelazic"
-  - label: Contact me
+  - label: Blog
+    url: "https://alelazic.blogspot.com/"
+  - label: Contact
     url: "https://ale-lazic.github.io/contact.html"
 output:
   postcards::trestles
@@ -21,24 +23,22 @@ I am a social psychology PhD Candidate and Research Assistant at the University 
 
 My PhD project explores how people make vaccination decisions and its implications for public communication, using online experiments and media content analysis. More broadly, I am interested in how people decide to help others and contribute to the public good.
 
-I developed and lead LIRA's open repository of psychological instruments in Serbian ([REPOPSI](https://osf.io/5zb8p/)).
+I co-founded and maintain LIRA's open repository of psychological instruments in Serbian ([REPOPSI](https://osf.io/5zb8p/)).
 
 In my spare time, I like to draw, dabble in [#SciComm](https://alelazic.blogspot.com), and teach myself R. I created this website with [{distill}](https://rstudio.github.io/distill/) and [{postcards}](https://github.com/seankross/postcards).
 
 ## Research interests
 
-vaccination decision-making, public health communication, cooperation, altruism, economic games, social norms, intergroup bias, open science
+Vaccination, Public Health Communication, Attitude Change, Behavior Change, Social Dilemmas (Public Goods Game), Social Norms, Conspiracy Theories & Misinformation, Altruism, Intergroup Relations, Open Science
+
+	
+## Methods 
+
+Experiments (Lab), Online Surveys, Systematic Review (with Quantitative Synthesis), Content Analysis, Correlational Research, Economic Experiments (Games), Psychometric Methods/Scale Development
+
 
 ## Education
 
 University of Belgrade | M.A. in Psychology | 2016
 
-University of Belgrade | B.A. in Psychology | 2015
-
-## Experience
-
-Univ. of Belgrade Faculty of Philosophy | Research Assistant | Feb 2021 - Present
-
-Univ. of Belgrade Faculty of Philosophy | Junior Research Assistant | May 2019 - Feb 2021
-
-Univ. of Belgrade Institute for Philosophy and Social Theory | Junior Research Assistant | Jun 2018 - Apr 2019
+University of Belgrade | Diploma in Psychology | 2015

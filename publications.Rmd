@@ -9,7 +9,7 @@ output:
 ---
 #### SELECTED PEER-REVIEWED JOURNAL ARTICLES
 
-Lazić, A., Kalinova, K. N., Packer, J., Pae, R., Petrović, M. B., Popović, D., Sievert, D. E. C., & Stafford-Johnson, N. (2021). [Social nudges for vaccination: How communicating herd behaviour influences vaccination intentions]( https://doi.org/10.1111/bjhp.12556). *British Journal of Health Psychology*.
+Lazić, A., Kalinova, K. N., Packer, J., Pae, R., Petrović, M. B., Popović, D., Sievert, D. E. C., & Stafford-Johnson, N. (2021). [Social nudges for vaccination: How communicating herd behaviour influences vaccination intentions](https://doi.org/10.1111/bjhp.12556). *British Journal of Health Psychology*, *26*(4), 1219–1237.
 
 <details>
   <summary>
@@ -30,6 +30,24 @@ Lazić, A., Kalinova, K. N., Packer, J., Pae, R., Petrović, M. B., Popović, D.
 </details>
 
 <br>
+Lazić, A., & Žeželj, I. (2021). [A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation](https://journals.sagepub.com/eprint/TMJJFRDISUCJPFQGPEW7/full). *Public Understanding of Science*, *30*(6), 644–670.
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+
+<font size="3">Even if a small portion of the population refuses vaccination due to anti-vaccination conspiracy theories or misinformation, this poses a threat to public health. We argue that addressing conspiracy theories with only corrective information is not enough. Instead, considering that they are complex narratives embedded in personal and cultural worldviews, they should be encountered with counternarratives. To identify existing narrative interventions aimed at countering anti-vaccination conspiracy theories and, more generally, map prerequisites for a narrative intervention to be successful, we present a systematic review of experimental effects of exposure to pro-vaccine narratives on a range of vaccination outcomes, based on 17 studies and 97 comparisons. We did not find any narrative interventions aimed directly at conspiracy theories. However, the review allowed us to make evidence-based recommendations for future research and for public communicators. This might help pro-vaccine communication match anti-vaccine communication in its potential to spread and go viral.</font>
+</details>
+
+<details>
+  <summary>
+  <font size="3">Relevant Links</font>
+  </summary>
+<font size="3">[[Open-Access PDF]](https://psyarxiv.com/g5r8z/) [[Open Data]](https://osf.io/4d5rp/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1395041770560446471)</font>
+</details>
+
+<br>
 Lazić, A., Purić, D., & Krstić, K. (2021). [Does parochial cooperation exist in childhood and adolescence? A meta-analysis](https://doi.org/10.1002/ijop.12791). *International Journal of Psychology*.
 
 <details>
@@ -45,25 +63,7 @@ Lazić, A., Purić, D., & Krstić, K. (2021). [Does parochial cooperation exist 
   <font size="3">Relevant Links</font>
   </summary>
   
-<font size="3">[[Free Eprint]](https://onlinelibrary.wiley.com/share/author/KAFHHZHEVUC8KXNBAWGU?target=10.1002/ijop.12791) [[Preprint]](https://psyarxiv.com/uexmr) [[Open Data]](https://osf.io/f7uwz/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1410984195623694337?s=20)</font>
-</details>
-
-<br>
-Lazić, A., & Žeželj, I. (2021). [A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation](https://doi.org/10.1177/09636625211011881). *Public Understanding of Science*, *30*(6), 644–670.
-
-<details>
-  <summary>
-  <font size="3">Abstract</font>
-  </summary>
-
-<font size="3">Even if a small portion of the population refuses vaccination due to anti-vaccination conspiracy theories or misinformation, this poses a threat to public health. We argue that addressing conspiracy theories with only corrective information is not enough. Instead, considering that they are complex narratives embedded in personal and cultural worldviews, they should be encountered with counternarratives. To identify existing narrative interventions aimed at countering anti-vaccination conspiracy theories and, more generally, map prerequisites for a narrative intervention to be successful, we present a systematic review of experimental effects of exposure to pro-vaccine narratives on a range of vaccination outcomes, based on 17 studies and 97 comparisons. We did not find any narrative interventions aimed directly at conspiracy theories. However, the review allowed us to make evidence-based recommendations for future research and for public communicators. This might help pro-vaccine communication match anti-vaccine communication in its potential to spread and go viral.</font>
-</details>
-
-<details>
-  <summary>
-  <font size="3">Relevant Links</font>
-  </summary>
-<font size="3">[[Accepted Article]](https://psyarxiv.com/g5r8z/) [[Open Data]](https://osf.io/4d5rp/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1395041770560446471)</font>
+<font size="3">[[Free Eprint]](https://onlinelibrary.wiley.com/share/author/KAFHHZHEVUC8KXNBAWGU?target=10.1002/ijop.12791) [[Open-Access PDF]](https://psyarxiv.com/uexmr) [[Open Data]](https://osf.io/f7uwz/) [[Twitter Thread]](https://twitter.com/AleLazic/status/1410984195623694337?s=20)</font>
 </details>
 
 <br>
