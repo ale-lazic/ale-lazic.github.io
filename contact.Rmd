@@ -1,5 +1,5 @@
 ---
-title: "Let's Connect!"
+title: 
 site: distill::distill_website
 image: "trinity-nguyen-5r9mk1ngjN8-unsplash-modified.png"
 links:

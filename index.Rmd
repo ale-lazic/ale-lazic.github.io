@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Lazić"
 site: distill::distill_website
-image: "alelazic.jpg"
+image: "alazic.png"
 links:
   - label: CV
     url: "https://ale-lazic.github.io/cv.html" 
