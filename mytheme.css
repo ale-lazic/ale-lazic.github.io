@@ -80,8 +80,3 @@ d-article a:visited {
   text-decoration: none;
   border-bottom: none;
 }
-
-.list-group {
-  .list-group-item: {
-    background-color: #ffffff;
-  }
