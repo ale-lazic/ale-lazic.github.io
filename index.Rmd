@@ -1,4 +1,10 @@
 ---
+<style>
+  body {
+        background-color: transparent;
+      }
+</style>
+---
 title: "Aleksandra Lazić"
 site: distill::distill_website
 image: "alazic.png"
@@ -16,17 +22,10 @@ links:
 output:
   postcards::solana
   
----
-
+---  
 <style>
-      @media screen and (min-width: 768px) {
-        .container {
-          width: 768px;
-        }
-      }
-
-      body {
-        background-color: #ffffff;
+  body {
+        background-color: transparent;
       }
 </style>
 
