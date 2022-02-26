@@ -1,16 +1,16 @@
 ---
 title: "Aleksandra Lazić"
 site: distill::distill_website
-image: "alelazic.png"
+image: "alelazic.jpg"
 links:
   - label: CV
     url: "https://ale-lazic.github.io/cv.html" 
   - label: Publications
     url: "https://ale-lazic.github.io/publications.html"
+  - label: ORCID iD
+    url: "http://orcid.org/0000-0002-0433-0483"
   - label: Twitter
     url: "https://twitter.com/alelazic"
-  - label: Blog
-    url: "https://alelazic.blogspot.com/"
   - label: Contact
     url: "https://ale-lazic.github.io/contact.html"
 output:
@@ -23,15 +23,13 @@ I am a social psychology PhD Candidate and Research Assistant at the University 
 
 My PhD project explores how people make vaccination decisions and its implications for public communication, using online experiments and media content analysis. More broadly, I am interested in how people decide to help others and contribute to the public good.
 
-My academic CV can be found [here](https://ale-lazic.github.io/cv.html). A list of my publications can be found [here](https://ale-lazic.github.io/publications.html).
-
 I co-founded and maintain LIRA's open repository of psychological instruments in Serbian ([REPOPSI](https://osf.io/5zb8p/)).
 
 In my spare time, I like to draw, dabble in [#SciComm](https://alelazic.blogspot.com), and teach myself R. I created this website with [{distill}](https://rstudio.github.io/distill/) and [{postcards}](https://github.com/seankross/postcards).
 
 ## Research interests
 
-Vaccination, Public Health Communication, Attitude Change, Behavior Change, Social Dilemmas (Public Goods Game), Social Norms, Conspiracy Theories & Misinformation, Altruism, Intergroup Relations, Open Science
+Vaccination, Public Health Communication, Social Norms, Conspiracy Theories & Misinformation, Social Dilemmas, Altruism, Intergroup Relations, Open Science
 
 	
 ## Methods 
