@@ -9,7 +9,7 @@ output:
 ---
 ### Vaccination & Other Health-Related Behaviors and Beliefs
 
-Lazić, A., Kalinova, K. N., Packer, J., Pae, R., Petrović, M. B., Popović, D., Sievert, D. E. C., & Stafford-Johnson, N. (2021). Social nudges for vaccination: How communicating herd behaviour influences vaccination intentions. *British Journal of Health Psychology*, *26*(4), 1219–1237. https://doi.org/10.1111/bjhp.12556
+**Lazić, A.**, Kalinova, K. N., Packer, J., Pae, R., Petrović, M. B., Popović, D., Sievert, D. E. C., & Stafford-Johnson, N. (2021). Social nudges for vaccination: How communicating herd behaviour influences vaccination intentions. *British Journal of Health Psychology*, *26*(4), 1219–1237. https://doi.org/10.1111/bjhp.12556
 
 [[Open Data]](https://osf.io/zb7s3/)
 [[Stage 1 Registered Report]](https://osf.io/jpku3)
@@ -23,7 +23,7 @@ Lazić, A., Kalinova, K. N., Packer, J., Pae, R., Petrović, M. B., Popović, D.
 </details>
 
 <br>
-Lazić, A., & Žeželj, I. (2021). A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation. *Public Understanding of Science*, *30*(6), 644–670. [https://doi.org/10.1177/09636625211011881](https://journals.sagepub.com/eprint/TMJJFRDISUCJPFQGPEW7/full)
+**Lazić, A.**, & Žeželj, I. (2021). A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation. *Public Understanding of Science*, *30*(6), 644–670. [https://doi.org/10.1177/09636625211011881](https://journals.sagepub.com/eprint/TMJJFRDISUCJPFQGPEW7/full)
 
 [[Postprint PDF]](https://psyarxiv.com/g5r8z/) [[Open Data]](https://osf.io/4d5rp/)
 
@@ -36,7 +36,7 @@ Lazić, A., & Žeželj, I. (2021). A systematic review of narrative intervention
 </details>
 
 <br>
-Teovanović, P., Lukić, P., Zupan, Z., Lazić, A., Ninković, M., Žeželj, I. (2021). Irrational beliefs differentially predict adherence to guidelines and pseudoscientific practices during the COVID-19 pandemic. *Applied Cognitive Psychology*, *35*(2), 486–496. https://doi.org/10.1002/acp.3770
+Teovanović, P., Lukić, P., Zupan, Z., **Lazić, A.**, Ninković, M., Žeželj, I. (2021). Irrational beliefs differentially predict adherence to guidelines and pseudoscientific practices during the COVID-19 pandemic. *Applied Cognitive Psychology*, *35*(2), 486–496. https://doi.org/10.1002/acp.3770
 
 [[Open Data]](https://osf.io/9njp3/)
 
@@ -50,7 +50,7 @@ Teovanović, P., Lukić, P., Zupan, Z., Lazić, A., Ninković, M., Žeželj, I. 
 
 ### Biases in Altruism and Cooperation
 
-Lazić, A., Purić, D., & Krstić, K. (2021). Does parochial cooperation exist in childhood and adolescence? A meta-analysis. *International Journal of Psychology*, *56*(6), 917–933. https://doi.org/10.1002/ijop.12791
+**Lazić, A.**, Purić, D., & Krstić, K. (2021). Does parochial cooperation exist in childhood and adolescence? A meta-analysis. *International Journal of Psychology*, *56*(6), 917–933. https://doi.org/10.1002/ijop.12791
 
 [[Postprint PDF]](https://psyarxiv.com/uexmr) [[Open Data]](https://osf.io/f7uwz/)
 
@@ -63,8 +63,8 @@ Lazić, A., Purić, D., & Krstić, K. (2021). Does parochial cooperation exist i
 </details>
 
 <br>
-Baucal, A., & Lazić, A. (2022). Selfish genes or selfish memes: The effect of genetic relatedness
-versus valuesimilarity on altruism. *Psihologija*. https://doi.org/10.2298/PSI211107009B
+Baucal, A., & **Lazić, A.** (2022). Selfish genes or selfish memes: The effect of genetic relatedness
+versus value similarity on altruism. *Psihologija*. https://doi.org/10.2298/PSI211107009B
 
 [[Open Data]](https://osf.io/a8vq2/)
 
@@ -80,7 +80,7 @@ versus valuesimilarity on altruism. *Psihologija*. https://doi.org/10.2298/PSI21
 
 ### Open Science
 
-Lazić, A., Lazarević Lj. B., Purić, D., & Žeželj, I. (2021). REPOPSI: The open repository of psychological instruments in Serbian. In N. Miljković, P. Pejović, & M. Cvetanović (Eds.), *Proceedings of the Third National Conference with International Participation titled Application of free software and open hardware PSSOH 2020* (pp. 51–56). University of Belgrade School of Electrical Engineering and Academic Mind. https://doi.org/10.5281/zenodo.4064293
+**Lazić, A.**, Lazarević Lj. B., Purić, D., & Žeželj, I. (2021). REPOPSI: The open repository of psychological instruments in Serbian. In N. Miljković, P. Pejović, & M. Cvetanović (Eds.), *Proceedings of the Third National Conference with International Participation titled Application of free software and open hardware PSSOH 2020* (pp. 51–56). University of Belgrade School of Electrical Engineering and Academic Mind. https://doi.org/10.5281/zenodo.4064293
 
 <details>
   <summary>
@@ -91,7 +91,7 @@ Lazić, A., Lazarević Lj. B., Purić, D., & Žeželj, I. (2021). REPOPSI: The o
 </details>
 
 <br>
-Parsons, S., Azevedo, F., Elsherif, M. M., ... Lazić, A., ..., & Aczel, B. (2022). A community-sourced
+Parsons, S., Azevedo, F., Elsherif, M. M., ... **Lazić, A.**, ..., & Aczel, B. (2022). A community-sourced
 glossary of open scholarship terms. *Nature Human Behaviour*. https://doi.org/10.1038/s41562-021-01269-4
 
 <details>

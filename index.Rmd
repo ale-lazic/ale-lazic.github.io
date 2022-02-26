@@ -1,10 +1,4 @@
 ---
-<style>
-  body {
-        background-color: transparent;
-      }
-</style>
----
 title: "Aleksandra Lazić"
 site: distill::distill_website
 image: "alazic.png"
@@ -20,14 +14,9 @@ links:
   - label: Contact
     url: "https://ale-lazic.github.io/contact.html"
 output:
-  postcards::solana
+  postcards::trestles
   
 ---  
-<style>
-  body {
-        background-color: transparent;
-      }
-</style>
 
 ## About me
 
