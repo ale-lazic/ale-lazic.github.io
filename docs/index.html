@@ -723,7 +723,7 @@
           @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab');
 
 
-          html {
+          .html {
             /*-- Main font sizes --*/
             --title-size:      50px;
             --body-size:       1rem;
@@ -744,7 +744,7 @@
           }
 
           /*-- ARTICLE METADATA --*/
-          d-byline {
+          .d-byline {
             --heading-size:    0.6rem;
             --heading-color:   rgba(0, 0, 0, 0.5);
             --body-size:       0.8rem;
@@ -752,7 +752,7 @@
           }
 
           /*-- ARTICLE TABLE OF CONTENTS --*/
-          .d-contents {
+          d-contents {
             --heading-size:    18px;
             --contents-size:   13px;
           }
@@ -770,31 +770,30 @@
           /* Add any additional CSS rules below                      */
 
           d-article a:link {
-            color: #007bff;
+            color: #0056b3;
             text-decoration: none;
             border-bottom: none;
           }
 
-          d-article a:hover {
+          .d-article a:hover {
             color: #0056b3;
             text-decoration: none;
-            border-bottom: 1px solid;
+            border-bottom: none;
           }
 
           d-article {
               line-height: 1.4em;
           }
 
-          d-article a:visited {
-            color: #007bff;
+          .d-article a:visited {
+            color: #0056b3;
             text-decoration: none;
             border-bottom: none;
           }
 
-          .list-group {
-            .list-group-item: {
-              background-color: #ffffff;
-            }</style>
+          body {
+            background-color: transparent;
+          }</style>
           <style type="text/css">
           /* base style */
 
