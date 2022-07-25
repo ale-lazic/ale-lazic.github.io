@@ -7,19 +7,32 @@ output:
     theme: mytheme.css
    
 ---
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
 ### Vaccination & Other Health-Related Behaviors and Beliefs
+
+<div style="display: flex; justify-content: space-around">
 
 **Lazić, A.**, Kalinova, K. N., Packer, J., Pae, R., Petrović, M. B., Popović, D., Sievert, D. E. C., & Stafford-Johnson, N. (2021). Social nudges for vaccination: How communicating herd behaviour influences vaccination intentions. *British Journal of Health Psychology*, *26*(4), 1219–1237. https://doi.org/10.1111/bjhp.12556
 
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1111/bjhp.12556" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1111/bjhp.12556" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</div>
+
 [[Open Data]](https://osf.io/zb7s3/)
-[[Stage 1 Registered Report]](https://osf.io/jpku3)
+[[Stage 1 Registered Report]](https://osf.io/jpku3) 
 
 <details>
   <summary>
   <font size="3">Abstract</font>
   </summary>
   
-<font size="3">This Registered Report attempted to conceptually replicate the finding that communicating herd immunity increases vaccination intentions (Betsch, et al., 2017, *Nat. Hum. Behav.*, 0056). An additional objective was to explore the roles of descriptive social norms (vaccination behaviour of others) and the herd-immunity threshold (coverage needed to stop disease transmission). An online experiment with a 2 (herd-immunity explanation: present vs. absent) × 3 (descriptive norm: high vs. low vs. absent) × 2 (herd-immunity threshold: present vs. absent) between-subjects fractional design. Sample consisted of 543 people (aged 18–64) residing in the United Kingdom. Participants first received an explanation of herd immunity emphasising social benefits (protecting others) in both textual and animated-infographic form. Next, they were faced with fictitious information about the disease, the vaccine, their country’s vaccination coverage (80% or 20%), and the herd-immunity threshold (90%). Vaccination intention was self-rated. Compared to the control, communicating social benefits of herd immunity was effective in increasing vaccination intentions (*F*(1,541) = 6.97, *p* = .009, Partial Eta-Squared = 0.013). Communicating the descriptive norm or the herd-immunity threshold alongside the herd-immunity explanation demonstrated no observable effect. Communicating social benefits of herd immunity increased self-reported vaccination intentions against a fictitious disease, replicating previous findings. Although this result is positive, the practical relevance may be limited. Further research into the effect of social nudges to motivate vaccination is required, particularly with respect to the recent pandemic context and varying levels of vaccine hesitancy.</font>
+<font size="3">Objectives: This Registered Report attempted to conceptually replicate the finding that communicating herd immunity increases vaccination intentions (Betsch, et al., 2017, *Nat. Hum. Behav.*, 0056). An additional objective was to explore the roles of descriptive social norms (vaccination behaviour of others) and the herd-immunity threshold (coverage needed to stop disease transmission). Design: An online experiment with a 2 (herd-immunity explanation: present vs. absent) × 3 (descriptive norm: high vs. low vs. absent) × 2 (herd-immunity threshold: present vs. absent) between-subjects fractional design. Methods: Sample consisted of 543 people (aged 18–64) residing in the United Kingdom. Participants first received an explanation of herd immunity emphasising social benefits (protecting others) in both textual and animated-infographic form. Next, they were faced with fictitious information about the disease, the vaccine, their country’s vaccination coverage (80% or 20%), and the herd-immunity threshold (90%). Vaccination intention was self-rated. Results: Compared to the control, communicating social benefits of herd immunity was effective in increasing vaccination intentions (*F*(1,541) = 6.97, *p* = .009, Partial Eta-Squared = 0.013). Conclusion: Communicating the descriptive norm or the herd-immunity threshold alongside the herd-immunity explanation demonstrated no observable effect. Communicating social benefits of herd immunity increased self-reported vaccination intentions against a fictitious disease, replicating previous findings. Although this result is positive, the practical relevance may be limited. Further research into the effect of social nudges to motivate vaccination is required, particularly with respect to the recent pandemic context and varying levels of vaccine hesitancy.</font>
 </details>
 
 <br>
