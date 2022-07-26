@@ -39,30 +39,6 @@ output:
 
 <div style="display: flex">
 
-**Lazić, A.**, & Žeželj, I. (2021). A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation. *Public Understanding of Science*, *30*(6), 644–670. [https://doi.org/10.1177/09636625211011881](https://journals.sagepub.com/eprint/TMJJFRDISUCJPFQGPEW7/full)  
-
-
-<div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1177/09636625211011881" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-<span class="__dimensions_badge_embed__" data-doi="10.1177/09636625211011881" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-</div>
-
-[[Postprint PDF]](https://psyarxiv.com/g5r8z/)
-[[Open Data]](https://osf.io/4d5rp/) 
-
-<details>
-  <summary>
-  <font size="3">Abstract</font>
-  </summary>
-
-<font size="3">Even if a small portion of the population refuses vaccination due to anti-vaccination conspiracy theories or misinformation, this poses a threat to public health. We argue that addressing conspiracy theories with only corrective information is not enough. Instead, considering that they are complex narratives embedded in personal and cultural worldviews, they should be encountered with counternarratives. To identify existing narrative interventions aimed at countering anti-vaccination conspiracy theories and, more generally, map prerequisites for a narrative intervention to be successful, we present a systematic review of experimental effects of exposure to pro-vaccine narratives on a range of vaccination outcomes, based on 17 studies and 97 comparisons. We did not find any narrative interventions aimed directly at conspiracy theories. However, the review allowed us to make evidence-based recommendations for future research and for public communicators. This might help pro-vaccine communication match anti-vaccine communication in its potential to spread and go viral.</font>
-</details>
-
-<br>
-
-<div style="display: flex">
-
 Teovanović, P., Lukić, P., Zupan, Z., **Lazić, A.**, Ninković, M., Žeželj, I. (2021). Irrational beliefs differentially predict adherence to guidelines and pseudoscientific practices during the COVID-19 pandemic. *Applied Cognitive Psychology*, *35*(2), 486–496. https://doi.org/10.1002/acp.3770
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1002/acp.3770" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
