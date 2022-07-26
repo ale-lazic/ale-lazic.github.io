@@ -15,17 +15,41 @@ output:
 
 <div style="display: flex">
 
+**Lazić, A.**, & Žeželj, I. (2021). A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation. *Public Understanding of Science*, *30*(6), 644–670. [https://doi.org/10.1177/09636625211011881](https://journals.sagepub.com/eprint/TMJJFRDISUCJPFQGPEW7/full) [[PDF]](https://psyarxiv.com/g5r8z/)
+
+</div>
+
+<div style="display: flex">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1177/09636625211011881" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1177/09636625211011881" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+
+<font size="3">Even if a small portion of the population refuses vaccination due to anti-vaccination conspiracy theories or misinformation, this poses a threat to public health. We argue that addressing conspiracy theories with only corrective information is not enough. Instead, considering that they are complex narratives embedded in personal and cultural worldviews, they should be encountered with counternarratives. To identify existing narrative interventions aimed at countering anti-vaccination conspiracy theories and, more generally, map prerequisites for a narrative intervention to be successful, we present a systematic review of experimental effects of exposure to pro-vaccine narratives on a range of vaccination outcomes, based on 17 studies and 97 comparisons. We did not find any narrative interventions aimed directly at conspiracy theories. However, the review allowed us to make evidence-based recommendations for future research and for public communicators. This might help pro-vaccine communication match anti-vaccine communication in its potential to spread and go viral.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
 **Lazić, A.**, Kalinova, K. N., Packer, J., Pae, R., Petrović, M. B., Popović, D., Sievert, D. E. C., & Stafford-Johnson, N. (2021). Social nudges for vaccination: How communicating herd behaviour influences vaccination intentions. *British Journal of Health Psychology*, *26*(4), 1219–1237. https://doi.org/10.1111/bjhp.12556
 
+</div>
+
+<div style="display: flex">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1111/bjhp.12556" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <span class="__dimensions_badge_embed__" data-doi="10.1111/bjhp.12556" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 </div>
-
-[[Open Data]](https://osf.io/zb7s3/)
-[[Stage 1 Registered Report]](https://osf.io/jpku3) 
 
 <details>
   <summary>
@@ -35,19 +59,22 @@ output:
 <font size="3">Objectives: This Registered Report attempted to conceptually replicate the finding that communicating herd immunity increases vaccination intentions (Betsch, et al., 2017, *Nat. Hum. Behav.*, 0056). An additional objective was to explore the roles of descriptive social norms (vaccination behaviour of others) and the herd-immunity threshold (coverage needed to stop disease transmission). Design: An online experiment with a 2 (herd-immunity explanation: present vs. absent) × 3 (descriptive norm: high vs. low vs. absent) × 2 (herd-immunity threshold: present vs. absent) between-subjects fractional design. Methods: Sample consisted of 543 people (aged 18–64) residing in the United Kingdom. Participants first received an explanation of herd immunity emphasising social benefits (protecting others) in both textual and animated-infographic form. Next, they were faced with fictitious information about the disease, the vaccine, their country’s vaccination coverage (80% or 20%), and the herd-immunity threshold (90%). Vaccination intention was self-rated. Results: Compared to the control, communicating social benefits of herd immunity was effective in increasing vaccination intentions (*F*(1,541) = 6.97, *p* = .009, Partial Eta-Squared = 0.013). Conclusion: Communicating the descriptive norm or the herd-immunity threshold alongside the herd-immunity explanation demonstrated no observable effect. Communicating social benefits of herd immunity increased self-reported vaccination intentions against a fictitious disease, replicating previous findings. Although this result is positive, the practical relevance may be limited. Further research into the effect of social nudges to motivate vaccination is required, particularly with respect to the recent pandemic context and varying levels of vaccine hesitancy.</font>
 </details>
 
+
 <br>
 
 <div style="display: flex">
 
 Teovanović, P., Lukić, P., Zupan, Z., **Lazić, A.**, Ninković, M., Žeželj, I. (2021). Irrational beliefs differentially predict adherence to guidelines and pseudoscientific practices during the COVID-19 pandemic. *Applied Cognitive Psychology*, *35*(2), 486–496. https://doi.org/10.1002/acp.3770
 
+</div>
+
+<div style="display: flex">
+
 <div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1002/acp.3770" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <span class="__dimensions_badge_embed__" data-doi="10.1002/acp.3770" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 </div>
-
-[[Open Data]](https://osf.io/9njp3/)
 
 <details>
   <summary>
@@ -65,13 +92,15 @@ Teovanović, P., Lukić, P., Zupan, Z., **Lazić, A.**, Ninković, M., Žeželj,
 
 Baucal, A., & **Lazić, A.** (2022). Selfish genes or selfish memes: The effect of genetic relatedness versus value similarity on altruism. *Psihologija*. https://doi.org/10.2298/PSI211107009B
 
+</div>
+
+<div style="display: flex">
+
 <div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.2298/PSI211107009B" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
 
 <span class="__dimensions_badge_embed__" data-doi="10.2298/PSI211107009B" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 </div>
-
-[[Open Data]](https://osf.io/a8vq2/)
 
 <details>
   <summary>
@@ -85,15 +114,17 @@ Baucal, A., & **Lazić, A.** (2022). Selfish genes or selfish memes: The effect 
 
 <div style="display: flex">
 
-**Lazić, A.**, Purić, D., & Krstić, K. (2021). Does parochial cooperation exist in childhood and adolescence? A meta-analysis. *International Journal of Psychology*, *56*(6), 917–933. https://doi.org/10.1002/ijop.12791
+**Lazić, A.**, Purić, D., & Krstić, K. (2021). Does parochial cooperation exist in childhood and adolescence? A meta-analysis. *International Journal of Psychology*, *56*(6), 917–933. https://doi.org/10.1002/ijop.12791 [[PDF]](https://psyarxiv.com/uexmr)
+
+</div>
+
+<div style="display: flex">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1002/ijop.12791" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
 
 <span class="__dimensions_badge_embed__" data-doi="10.1002/ijop.12791" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 </div>
-
-[[Postprint PDF]](https://psyarxiv.com/uexmr) [[Open Data]](https://osf.io/f7uwz/)
 
 <details>
   <summary>
@@ -110,15 +141,17 @@ Baucal, A., & **Lazić, A.** (2022). Selfish genes or selfish memes: The effect 
 <div style="display: flex">
 
 Parsons, S., Azevedo, F., Elsherif, M. M., ... **Lazić, A.**, ..., & Aczel, B. (2022). A community-sourced
-glossary of open scholarship terms. *Nature Human Behaviour*. [https://doi.org/10.1038/s41562-021-01269-4](https://rdcu.be/cHsqM)
+glossary of open scholarship terms. *Nature Human Behaviour*. https://doi.org/10.1038/s41562-021-01269-4 [[PDF]](https://rdcu.be/cHsqM)
+
+</div>
+
+<div style="display: flex">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1038/s41562-021-01269-4" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41562-021-01269-4" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 </div>
-
-[[Postprint PDF]](https://osf.io/preprints/metaarxiv/kdqcw)
 
 <details>
   <summary>
@@ -133,6 +166,10 @@ glossary of open scholarship terms. *Nature Human Behaviour*. [https://doi.org/1
 <div style="display: flex">
 
 **Lazić, A.**, Lazarević Lj. B., Purić, D., & Žeželj, I. (2021). REPOPSI: The open repository of psychological instruments in Serbian. In N. Miljković, P. Pejović, & M. Cvetanović (Eds.), *Proceedings of the Third National Conference with International Participation titled Application of free software and open hardware PSSOH 2020* (pp. 51–56). University of Belgrade School of Electrical Engineering and Academic Mind. https://doi.org/10.5281/zenodo.4064293
+
+</div>
+
+<div style="display: flex">
 
 <div data-badge-type="donut" data-doi="doi.org/10.5281/zenodo.4064293" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
 
