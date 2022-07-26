@@ -11,7 +11,7 @@ output:
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
-### Vaccination & Other Health-Related Behaviors and Beliefs
+### Vaccination- & Health-Related Behaviors and Beliefs
 
 <div style="display: flex; justify-content: space-around">
 
@@ -20,7 +20,7 @@ output:
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1111/bjhp.12556" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-<span class="__dimensions_badge_embed__" data-doi="10.1111/bjhp.12556" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/bjhp.12556" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 </div>
 
@@ -36,7 +36,16 @@ output:
 </details>
 
 <br>
+
+<div style="display: flex; justify-content: space-around">
+
 **Lazić, A.**, & Žeželj, I. (2021). A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation. *Public Understanding of Science*, *30*(6), 644–670. [https://doi.org/10.1177/09636625211011881](https://journals.sagepub.com/eprint/TMJJFRDISUCJPFQGPEW7/full)
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1177/09636625211011881" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1177/09636625211011881" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</div>
 
 [[Postprint PDF]](https://psyarxiv.com/g5r8z/) [[Open Data]](https://osf.io/4d5rp/)
 
@@ -49,7 +58,16 @@ output:
 </details>
 
 <br>
+
+<div style="display: flex; justify-content: space-around">
+
 Teovanović, P., Lukić, P., Zupan, Z., **Lazić, A.**, Ninković, M., Žeželj, I. (2021). Irrational beliefs differentially predict adherence to guidelines and pseudoscientific practices during the COVID-19 pandemic. *Applied Cognitive Psychology*, *35*(2), 486–496. https://doi.org/10.1002/acp.3770
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1002/acp.3770" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1002/acp.3770" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</div>
 
 [[Open Data]](https://osf.io/9njp3/)
 
@@ -63,21 +81,16 @@ Teovanović, P., Lukić, P., Zupan, Z., **Lazić, A.**, Ninković, M., Žeželj,
 
 ### Biases in Altruism and Cooperation
 
-**Lazić, A.**, Purić, D., & Krstić, K. (2021). Does parochial cooperation exist in childhood and adolescence? A meta-analysis. *International Journal of Psychology*, *56*(6), 917–933. https://doi.org/10.1002/ijop.12791
+<div style="display: flex; justify-content: space-around">
 
-[[Postprint PDF]](https://psyarxiv.com/uexmr) [[Open Data]](https://osf.io/f7uwz/)
-
-<details>
-  <summary>
-  <font size="3">Abstract</font>
-  </summary>
-  
-<font size="3">Although previous meta-analytic evidence supports the existence of parochialism in cooperation among adults, the extent to which children and adolescents are more willing to incur a personal cost to benefit ingroups, compared to outgroups, is not yet clear. We provide the first meta-analysis on the existence and magnitude of parochialism in cooperation among pre-adults. Based on 20 experimental economics studies (*k* = 69, *N* = 5268, age = 3–19, 12 countries, published 2008–2019), a multilevel meta-analytic model revealed a small overall effect size indicating that children and adolescents were more cooperative towards ingroups (*d* = 0.22, 95% CI [0.07, 0.38]). A series of single-moderator analyses tested for the following conditions: participant age and sex; game type ([mini-]dictator game, prisoner's dilemma, public goods dilemma, trust game, ultimatum game); outcome interdependence; membership manipulation (between- vs. within-subjects); group type (natural vs. experimental); reward type (monetary vs. non-monetary); and country of the participant. Parochial cooperation did not vary with participants' age. Parochialism was larger in non-interdependent (dictator-type) compared to interdependent (bargaining and social dilemma) games. There were no moderating effects of group type, membership manipulation or reward type. To provide more data on how parochialism develops, primary studies should report age ranges more precisely and use more restricted age groups.</font>
-</details>
-
-<br>
 Baucal, A., & **Lazić, A.** (2022). Selfish genes or selfish memes: The effect of genetic relatedness
 versus value similarity on altruism. *Psihologija*. https://doi.org/10.2298/PSI211107009B
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.2298/PSI211107009B" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.2298/PSI211107009B" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</div>
 
 [[Open Data]](https://osf.io/a8vq2/)
 
@@ -91,21 +104,44 @@ versus value similarity on altruism. *Psihologija*. https://doi.org/10.2298/PSI2
 </font>
 </details>
 
-### Open Science
+<br>
 
-**Lazić, A.**, Lazarević Lj. B., Purić, D., & Žeželj, I. (2021). REPOPSI: The open repository of psychological instruments in Serbian. In N. Miljković, P. Pejović, & M. Cvetanović (Eds.), *Proceedings of the Third National Conference with International Participation titled Application of free software and open hardware PSSOH 2020* (pp. 51–56). University of Belgrade School of Electrical Engineering and Academic Mind. https://doi.org/10.5281/zenodo.4064293
+<div style="display: flex; justify-content: space-around">
+
+**Lazić, A.**, Purić, D., & Krstić, K. (2021). Does parochial cooperation exist in childhood and adolescence? A meta-analysis. *International Journal of Psychology*, *56*(6), 917–933. https://doi.org/10.1002/ijop.12791
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1002/ijop.12791" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1002/ijop.12791" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</div>
+
+[[Postprint PDF]](https://psyarxiv.com/uexmr) [[Open Data]](https://osf.io/f7uwz/)
 
 <details>
   <summary>
   <font size="3">Abstract</font>
   </summary>
+  
+<font size="3">Although previous meta-analytic evidence supports the existence of parochialism in cooperation among adults, the extent to which children and adolescents are more willing to incur a personal cost to benefit ingroups, compared to outgroups, is not yet clear. We provide the first meta-analysis on the existence and magnitude of parochialism in cooperation among pre-adults. Based on 20 experimental economics studies (*k* = 69, *N* = 5268, age = 3–19, 12 countries, published 2008–2019), a multilevel meta-analytic model revealed a small overall effect size indicating that children and adolescents were more cooperative towards ingroups (*d* = 0.22, 95% CI [0.07, 0.38]). A series of single-moderator analyses tested for the following conditions: participant age and sex; game type ([mini-]dictator game, prisoner's dilemma, public goods dilemma, trust game, ultimatum game); outcome interdependence; membership manipulation (between- vs. within-subjects); group type (natural vs. experimental); reward type (monetary vs. non-monetary); and country of the participant. Parochial cooperation did not vary with participants' age. Parochialism was larger in non-interdependent (dictator-type) compared to interdependent (bargaining and social dilemma) games. There were no moderating effects of group type, membership manipulation or reward type. To provide more data on how parochialism develops, primary studies should report age ranges more precisely and use more restricted age groups.
 
-<font size="3">The Repository of Psychological Instruments in Serbian (REPOPSI; https://osf.io/5zb8p/), run by the Laboratory for Research of Individual Differences at the University of Belgrade and hosted on the Open Science Framework, is an open-access repository of psychological instruments. REPOPSI is a collection of over 130 instruments (e.g., scales, tests) commonly used in social and behavioral science research. Documented are Serbian, English and multilingual instruments, which can be used free of charge for non-commercial purposes (e.g., academic research or education). We argue that REPOPSI enables scientists to increase the efficiency of their research and the visibility of their output. We analyze REPOPSI’s commitment to ensure that its (meta)data is findable, accessible, interoperable, and reusable (the FAIR Data Principles)and its trustworthiness with respect to transparency, responsibility, user focus, sustainability, and technology (the TRUST principles). Finally, we describe how the FAIR and the TRUST principles will support the process of continuous improvement of REPOPSI.</font>
+</font>
 </details>
 
-<br>
+### Open Science
+
+<div style="display: flex; justify-content: space-around">
+
 Parsons, S., Azevedo, F., Elsherif, M. M., ... **Lazić, A.**, ..., & Aczel, B. (2022). A community-sourced
 glossary of open scholarship terms. *Nature Human Behaviour*. [https://doi.org/10.1038/s41562-021-01269-4](https://rdcu.be/cHsqM)
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1038/s41562-021-01269-4" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41562-021-01269-4" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</div>
+
+[[Postprint PDF]](https://osf.io/preprints/metaarxiv/kdqcw)
 
 <details>
   <summary>
@@ -115,4 +151,28 @@ glossary of open scholarship terms. *Nature Human Behaviour*. [https://doi.org/1
 <font size="3">Open scholarship has transformed research, introducing a host of new terms in the lexicon of researchers. The Framework of Open and Reproducible Research Training (FORRT) community presents a crowdsourced glossary of open scholarship terms to facilitate education and effective communication between experts and newcomers.</font>
 </details>
 
-[[Postprint PDF]](https://osf.io/preprints/metaarxiv/kdqcw)
+</font>
+</details>
+
+<br>
+
+<div style="display: flex; justify-content: space-around">
+
+**Lazić, A.**, Lazarević Lj. B., Purić, D., & Žeželj, I. (2021). REPOPSI: The open repository of psychological instruments in Serbian. In N. Miljković, P. Pejović, & M. Cvetanović (Eds.), *Proceedings of the Third National Conference with International Participation titled Application of free software and open hardware PSSOH 2020* (pp. 51–56). University of Belgrade School of Electrical Engineering and Academic Mind. https://doi.org/10.5281/zenodo.4064293
+
+<div data-badge-type="donut" data-doi="doi.org/10.5281/zenodo.4064293" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.5281/zenodo.4064293" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+
+<font size="3">The Repository of Psychological Instruments in Serbian (REPOPSI; https://osf.io/5zb8p/), run by the Laboratory for Research of Individual Differences at the University of Belgrade and hosted on the Open Science Framework, is an open-access repository of psychological instruments. REPOPSI is a collection of over 130 instruments (e.g., scales, tests) commonly used in social and behavioral science research. Documented are Serbian, English and multilingual instruments, which can be used free of charge for non-commercial purposes (e.g., academic research or education). We argue that REPOPSI enables scientists to increase the efficiency of their research and the visibility of their output. We analyze REPOPSI’s commitment to ensure that its (meta)data is findable, accessible, interoperable, and reusable (the FAIR Data Principles)and its trustworthiness with respect to transparency, responsibility, user focus, sustainability, and technology (the TRUST principles). Finally, we describe how the FAIR and the TRUST principles will support the process of continuous improvement of REPOPSI.</font>
+</details>
+
+</font>
+</details>
