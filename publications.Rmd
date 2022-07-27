@@ -19,7 +19,9 @@ output:
 
 </div>
 
-<div style="display: flex">
+
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1177/09636625211011881" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
@@ -43,7 +45,7 @@ output:
 
 </div>
 
-<div style="display: flex">
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1111/bjhp.12556" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
@@ -68,7 +70,7 @@ Teovanović, P., Lukić, P., Zupan, Z., **Lazić, A.**, Ninković, M., Žeželj,
 
 </div>
 
-<div style="display: flex">
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1002/acp.3770" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
@@ -94,7 +96,7 @@ Baucal, A., & **Lazić, A.** (2022). Selfish genes or selfish memes: The effect 
 
 </div>
 
-<div style="display: flex">
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.2298/PSI211107009B" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
 
@@ -118,7 +120,7 @@ Baucal, A., & **Lazić, A.** (2022). Selfish genes or selfish memes: The effect 
 
 </div>
 
-<div style="display: flex">
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1002/ijop.12791" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
 
@@ -145,7 +147,7 @@ glossary of open scholarship terms. *Nature Human Behaviour*. https://doi.org/10
 
 </div>
 
-<div style="display: flex">
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1038/s41562-021-01269-4" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
 
@@ -169,7 +171,7 @@ glossary of open scholarship terms. *Nature Human Behaviour*. https://doi.org/10
 
 </div>
 
-<div style="display: flex">
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-type="donut" data-doi="doi.org/10.5281/zenodo.4064293" data-condensed="true" data-hide-no-mentions="true" data-hide-less-than="2" class="altmetric-embed"></div>
 
