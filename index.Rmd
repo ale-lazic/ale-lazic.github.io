@@ -1,17 +1,17 @@
 ---
 title: "Aleksandra Lazić"
 site: distill::distill_website
-image: "alazic.png"
+image: "al_repopsi-modified.png"
 links:
-  - label: CV
-    url: "https://ale-lazic.github.io/cv.html" 
-  - label: Publications
-    url: "https://ale-lazic.github.io/publications.html"
   - label: ORCID iD
     url: "http://orcid.org/0000-0002-0433-0483"
+  - label: Research & Outreach
+    url: "https://ale-lazic.github.io/publications.html"
+  - label: Blog
+    url: "https://alelazic.blogspot.com/"
   - label: Twitter
     url: "https://twitter.com/alelazic"
-  - label: Contact
+  - label: Stay in Touch
     url: "https://ale-lazic.github.io/contact.html"
 output:
   postcards::trestles
@@ -21,7 +21,7 @@ output:
 
 ## About me
 
-I am a social psychology PhD Candidate and Research Assistant at the University of Belgrade Department of Psychology ([LIRA](https://lira.f.bg.ac.rs/en/)). 
+I am a social psychology PhD Candidate and Research Assistant at the University of Belgrade Department of Psychology ([LIRA Lab](https://lira.f.bg.ac.rs/en/)). 
 
 My PhD project explores how people make vaccination decisions in social interactions with others and its implications for public communication, using online experiments and media content analysis. More broadly, I am interested in how people decide to help others and contribute to the public good.
 
@@ -29,7 +29,7 @@ Since 2022, I am part of the research team of the [Reason4Health project](https:
 
 I co-founded and maintain LIRA's open access repository of psychological instruments in Serbian ([REPOPSI](https://osf.io/5zb8p/)).
 
-In my spare time, I like to draw, dabble in [#SciComm](https://alelazic.blogspot.com), and teach myself R. I created this website with [{distill}](https://rstudio.github.io/distill/) and [{postcards}](https://github.com/seankross/postcards).
+In my spare time, I like to draw, dabble in #SciComm, and teach myself R. I created this website with [{distill}](https://rstudio.github.io/distill/) and [{postcards}](https://github.com/seankross/postcards).
 
 ## Research interests
 

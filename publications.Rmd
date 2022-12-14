@@ -1,5 +1,5 @@
 ---
-title: "Selected Publications"
+title: "Research & Outreach"
 description: |
 output: 
   distill::distill_article:
@@ -10,12 +10,38 @@ output:
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
+## Research
 
-### Vaccination- & Health-Related Behaviors and Beliefs
+### Vaccination/Health Decisions & Public Communication
 
 <div style="display: flex">
 
-**Lazić, A.**, & Žeželj, I. (2021). A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation. *Public Understanding of Science*, *30*(6), 644–670. [https://doi.org/10.1177/09636625211011881](https://journals.sagepub.com/eprint/TMJJFRDISUCJPFQGPEW7/full) [[PDF]](https://psyarxiv.com/g5r8z/)
+**Lazić, A.**, & Žeželj, I. (2022). Negativity in online news coverage of vaccination rates in Serbia: A content analysis. *Psychology & Health*. https://doi.org/10.1080/08870446.2022.2121962 [**Open Access PDF**](https://psyarxiv.com/nqjb9/) [**Open Data**](https://osf.io/5bkz8/)
+
+</div>
+
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="doi.org/10.1080/08870446.2022.2121962" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1080/08870446.2022.2121962" data-hide-zero-citations="true" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+<font size="3">Objective: This content analysis study explored how online news media communicates and frames vaccination rates and herd immunity (the effect where enough people are immune, the virus is contained). Methods: We analyzed 160 vaccination-related news stories by nine highest-trafficked news websites in Serbia, published July–December 2017, around the start of the measles outbreak. We coded both the news story as a whole and every vaccination-rate mention (*N* = 339). Results: News stories framed current vaccination rates and changes in them in a predominantly negative way (175/241 and 67/98 mentions, respectively) (e.g., “only 50% vaccinated”, “fewer parents vaccinating their children”), especially when referring to the measles vaccine (202/262 mentions). A total of 23/86 of news stories mentioning vaccination rates did not provide any numerical values. Reference groups for vaccination rates were rarely specified. Out of the 32 news stories mentioning herd immunity, 11 explained the effect. Conclusions: Even routine communication of vaccination rates can be biased through negative frames and imprecise descriptions. Lamenting low immunization rates could activate a negative descriptive social norm (“many people are not getting vaccinated”), which may be especially ill-advised in the absence of an explanation of the social benefit of achieving herd immunity through vaccination.</font>
+</details>
+
+
+<br>
+
+<div style="display: flex">
+
+**Lazić, A.**, & Žeželj, I. (2021). A systematic review of narrative interventions: Lessons for countering anti-vaccination conspiracy theories and misinformation. *Public Understanding of Science*, *30*(6), 644–670. [https://doi.org/10.1177/09636625211011881](https://journals.sagepub.com/eprint/TMJJFRDISUCJPFQGPEW7/full) [**Open Data**](https://osf.io/4d5rp/)
 
 </div>
 
@@ -41,7 +67,7 @@ output:
 
 <div style="display: flex">
 
-**Lazić, A.**, Kalinova, K. N., Packer, J., Pae, R., Petrović, M. B., Popović, D., Sievert, D. E. C., & Stafford-Johnson, N. (2021). Social nudges for vaccination: How communicating herd behaviour influences vaccination intentions. *British Journal of Health Psychology*, *26*(4), 1219–1237. https://doi.org/10.1111/bjhp.12556
+**Lazić, A.**, Kalinova, K. N., Packer, J., Pae, R., Petrović, M. B., Popović, D., Sievert, D. E. C., & Stafford-Johnson, N. (2021). Social nudges for vaccination: How communicating herd behaviour influences vaccination intentions. *British Journal of Health Psychology*, *26*(4), 1219–1237. https://doi.org/10.1111/bjhp.12556 [**Open Data**](https://osf.io/zb7s3/) · [**Registered Report Protocol**](https://osf.io/jpku3)
 
 </div>
 
@@ -66,7 +92,7 @@ output:
 
 <div style="display: flex">
 
-Teovanović, P., Lukić, P., Zupan, Z., **Lazić, A.**, Ninković, M., Žeželj, I. (2021). Irrational beliefs differentially predict adherence to guidelines and pseudoscientific practices during the COVID-19 pandemic. *Applied Cognitive Psychology*, *35*(2), 486–496. https://doi.org/10.1002/acp.3770
+Teovanović, P., Lukić, P., Zupan, Z., **Lazić, A.**, Ninković, M., Žeželj, I. (2021). Irrational beliefs differentially predict adherence to guidelines and pseudoscientific practices during the COVID-19 pandemic. *Applied Cognitive Psychology*, *35*(2), 486–496. https://doi.org/10.1002/acp.3770 [**Open Data**](https://osf.io/9njp3/)
 
 </div>
 
@@ -92,7 +118,7 @@ Teovanović, P., Lukić, P., Zupan, Z., **Lazić, A.**, Ninković, M., Žeželj,
 
 <div style="display: flex">
 
-Baucal, A., & **Lazić, A.** (2022). Selfish genes or selfish memes: The effect of genetic relatedness versus value similarity on altruism. *Psihologija*. https://doi.org/10.2298/PSI211107009B
+Baucal, A., & **Lazić, A.** (2022). Selfish genes or selfish memes: The effect of genetic relatedness versus value similarity on altruism. *Psihologija*, *55*(4), 379–395. https://doi.org/10.2298/PSI211107009B [**Open Data**](https://osf.io/a8vq2/)
 
 </div>
 
@@ -116,7 +142,7 @@ Baucal, A., & **Lazić, A.** (2022). Selfish genes or selfish memes: The effect 
 
 <div style="display: flex">
 
-**Lazić, A.**, Purić, D., & Krstić, K. (2021). Does parochial cooperation exist in childhood and adolescence? A meta-analysis. *International Journal of Psychology*, *56*(6), 917–933. https://doi.org/10.1002/ijop.12791 [[PDF]](https://psyarxiv.com/uexmr)
+**Lazić, A.**, Purić, D., & Krstić, K. (2021). Does parochial cooperation exist in childhood and adolescence? A meta-analysis. *International Journal of Psychology*, *56*(6), 917–933. https://doi.org/10.1002/ijop.12791 [**Open Access PDF**](https://psyarxiv.com/uexmr) · [**Open Data**](https://osf.io/f7uwz/)
 
 </div>
 
@@ -143,7 +169,7 @@ Baucal, A., & **Lazić, A.** (2022). Selfish genes or selfish memes: The effect 
 <div style="display: flex">
 
 Parsons, S., Azevedo, F., Elsherif, M. M., ... **Lazić, A.**, ..., & Aczel, B. (2022). A community-sourced
-glossary of open scholarship terms. *Nature Human Behaviour*. https://doi.org/10.1038/s41562-021-01269-4 [[PDF]](https://rdcu.be/cHsqM)
+glossary of open scholarship terms. *Nature Human Behaviour*, *6*, 312–318. https://doi.org/10.1038/s41562-021-01269-4 [**Open Access PDF**](https://rdcu.be/cHsqM)
 
 </div>
 
@@ -186,3 +212,5 @@ glossary of open scholarship terms. *Nature Human Behaviour*. https://doi.org/10
 
 <font size="3">The Repository of Psychological Instruments in Serbian (REPOPSI; https://osf.io/5zb8p/), run by the Laboratory for Research of Individual Differences at the University of Belgrade and hosted on the Open Science Framework, is an open-access repository of psychological instruments. REPOPSI is a collection of over 130 instruments (e.g., scales, tests) commonly used in social and behavioral science research. Documented are Serbian, English and multilingual instruments, which can be used free of charge for non-commercial purposes (e.g., academic research or education). We argue that REPOPSI enables scientists to increase the efficiency of their research and the visibility of their output. We analyze REPOPSI’s commitment to ensure that its (meta)data is findable, accessible, interoperable, and reusable (the FAIR Data Principles)and its trustworthiness with respect to transparency, responsibility, user focus, sustainability, and technology (the TRUST principles). Finally, we describe how the FAIR and the TRUST principles will support the process of continuous improvement of REPOPSI.</font>
 </details>
+
+# Outreach

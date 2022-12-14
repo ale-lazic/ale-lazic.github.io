@@ -8,12 +8,12 @@ navbar:
   right:
     - text: "About"
       href: index.html
-    - text: "Publications"
+    - text: "Research & Outreach"
       href: publications.html
     - text: "Blog"
       href: "https://alelazic.blogspot.com/"
     - text: "CV"
       href: cv.html
-    - text: "Contact"
+    - text: "Stay in Touch"
       href: contact.html
 output: distill::distill_article
