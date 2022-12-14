@@ -28,6 +28,6 @@ links:
   - label: ImpactStory
     url: "https://impactstory.org/u/0000-0002-0433-0483"
 output:
-  postcards::solana
+  postcards::jolla
 ---
 You can contact me via email at: <a href = "mailto: aleksandra.lazic@f.bg.ac.rs">Aleksandra.Lazic@f.bg.ac.rs</a>
