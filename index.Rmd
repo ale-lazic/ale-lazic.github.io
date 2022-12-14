@@ -5,8 +5,10 @@ image: "al_repopsi-modified.png"
 links:
   - label: ORCID iD
     url: "http://orcid.org/0000-0002-0433-0483"
-  - label: Research & Outreach
+  - label: Research
     url: "https://ale-lazic.github.io/publications.html"
+  - label: CV
+    url: "https://ale-lazic.github.io/cv.html"
   - label: Blog
     url: "https://alelazic.blogspot.com/"
   - label: Twitter
@@ -14,10 +16,10 @@ links:
   - label: Stay in Touch
     url: "https://ale-lazic.github.io/contact.html"
 output:
-  postcards::solana
+  postcards::trestles
   
----  
-
+  
+---
 
 ## About me
 
