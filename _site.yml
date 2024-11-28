@@ -8,10 +8,6 @@ navbar:
   right:
     - text: "About"
       href: index.html
-    - text: "Research"
-      href: publications.html
-    - text: "Blog"
-      href: "https://alelazic.blogspot.com/"
     - text: "CV"
       href: cv.html
     - text: "Stay in Touch"
