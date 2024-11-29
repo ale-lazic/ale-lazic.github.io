@@ -21,17 +21,22 @@ output:
   postcards::trestles
 ---
 
+
 ## About me
 
 I am a PhD Researcher at the University of Belgrade ([LIRA Lab](https://lira.f.bg.ac.rs/en/)). 
 
-My current research explores how social context influences our health decisions and its implications for policy and public communication (e.g. in the media). 
+My current research explores how social context influences our health decisions and its implications for policy and public communication (e.g. in the media). Find more in [#HealthComm](https://ale-lazic.github.io/healthcomm.html).
 
-I am also engaged in promoting open research data sharing as well as improving the inclusivity and accessibility of open science.
+I am also interested in how people decide to help others and contribute to the public good. Find more in [#SocialDilemmas](https://ale-lazic.github.io/socialdilemmas.html).
+
+I am actively engaged in promoting open research data sharing as well as improving the inclusivity and accessibility of open science. Find more in [#OpenScience](https://ale-lazic.github.io/openscience.html).
+
+If you want to get on my good side, ask me about my next half-marathon.🏃‍♀
 
 For a full list of my publications and outreach activities, please see my [CV](https://drive.google.com/file/d/11AESEI0XEXLnlMkWNHj46Z5cypaX0JGv/view).
 
-#### Public communication about vaccination and health
+## Public communication about vaccination and health
 
 How do online media report about alternative medicine? I led a content analysis study as part of the Reason4Health project. [Read the paper](https://doi.org/10.1525/collabra.82189). [Generate random news stories!](https://perchance.org/r4h-generator-eng)
 

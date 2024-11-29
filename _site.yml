@@ -1,6 +1,6 @@
 name: "."
 title: "Aleksandra Lazic"
-#theme: mytheme.css
+theme: mytheme.css
 description: |
   Aleksandra Lazic
 output_dir: "docs"
@@ -8,4 +8,10 @@ navbar:
   right:
     - text: "About"
       href: index.html
+    - text: "#HealthComm"
+      href: healthcomm.html
+    - text: "#OpenScience"
+      href: openscience.html
+    - text: "#SocialDilemmas"
+      href: socialdilemmas
 output: distill::distill_article
