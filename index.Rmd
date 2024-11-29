@@ -1,6 +1,6 @@
 ---
 title: "Aleksandra Lazić"
-#site: distill::distill_website
+site: distill::distill_website
 image: "al-modified.png"
 links:
   - label: ORCID iD
