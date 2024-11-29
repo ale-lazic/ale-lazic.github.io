@@ -3,8 +3,8 @@ title: "Academic CV"
 description: |
 output:
     distill::distill_article:
-    toc: false
-    theme: mytheme.css
+      toc: false
+      theme: mytheme.css
 ---
 <iframe src="https://drive.google.com/file/d/11AESEI0XEXLnlMkWNHj46Z5cypaX0JGv/preview" width="840" height="680" allow="autoplay"></iframe>
 
