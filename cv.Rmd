@@ -1,8 +1,8 @@
 ---
-title: "CV"
+title: "Academic CV"
 description: |
-output: 
-  distill::distill_article:
+output:
+    distill::distill_article:
     toc: false
     theme: mytheme.css
 ---
