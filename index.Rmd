@@ -14,7 +14,7 @@ links:
   - label: Stay in Touch
     url: "https://ale-lazic.github.io/contact.html"
 output:
-  postcards::solana
+  postcards::trestles
 ---
 
 ## About me
