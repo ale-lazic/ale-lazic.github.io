@@ -8,6 +8,8 @@ navbar:
   right:
     - text: "About"
       href: index.html
+    - text: CV
+      href: "https://drive.google.com/file/d/11AESEI0XEXLnlMkWNHj46Z5cypaX0JGv/view"
     - text: "#HealthComm"
       href: healthcomm.html
     - text: "#OpenScience"

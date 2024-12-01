@@ -3,12 +3,14 @@ title: "Aleksandra Lazić"
 site: distill::distill_website
 image: "al-modified.png"
 links:
-  - label: ORCID iD
+  - label: ORCID
     url: "http://orcid.org/0000-0002-0433-0483"
   - label: Academic CV
     url: "https://drive.google.com/file/d/11AESEI0XEXLnlMkWNHj46Z5cypaX0JGv/view"
   - label: Email me
     url: "mailto:lazic.ale@gmail.com"
+  - label: Open Science Framework
+    url: "https://osf.io/x8bm2/"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/alelazic"
   - label: Bluesky
@@ -21,39 +23,20 @@ output:
   postcards::trestles
 ---
 
-
 ## About me
 
 I am a PhD Researcher at the University of Belgrade ([LIRA Lab](https://lira.f.bg.ac.rs/en/)). 
 
-My current research explores how social context influences our health decisions and its implications for policy and public communication (e.g. in the media). Find more in [#HealthComm](https://ale-lazic.github.io/healthcomm.html).
+My current research explores how social context influences our health decisions and its implications for policy and public communication (e.g. in the media). [Find more in #HealthComm](https://ale-lazic.github.io/healthcomm.html).
 
-I am also interested in how people decide to help others and contribute to the public good. Find more in [#SocialDilemmas](https://ale-lazic.github.io/socialdilemmas.html).
+I am also interested in how people decide to help others and contribute to the public good. [Find more in #SocialDilemmas](https://ale-lazic.github.io/socialdilemmas.html).
 
-I am actively engaged in promoting open research data sharing as well as improving the inclusivity and accessibility of open science. Find more in [#OpenScience](https://ale-lazic.github.io/openscience.html).
+I am actively engaged in promoting open research data sharing as well as improving the inclusivity and accessibility of open science. [Find more in #OpenScience](https://ale-lazic.github.io/openscience.html).
 
-If you want to get on my good side, ask me about my next half-marathon.🏃‍♀
+If you want to get on my good side, ask me about my next half-marathon.
 
 For a full list of my publications and outreach activities, please see my [CV](https://drive.google.com/file/d/11AESEI0XEXLnlMkWNHj46Z5cypaX0JGv/view).
 
-## Public communication about vaccination and health
+---
 
-How do online media report about alternative medicine? I led a content analysis study as part of the Reason4Health project. [Read the paper](https://doi.org/10.1525/collabra.82189). [Generate random news stories!](https://perchance.org/r4h-generator-eng)
-
-How do online media report about vaccination rates? [Read the paper](https://psyarxiv.com/nqjb9/) stemming from my PhD project.
-
-How should public messaging leverage vaccination rates? Is better to emphasize individual or social benefits of vaccination? [Read the preprint](https://doi.org/10.31234/osf.io/3h5bk) and the [paper](https://doi.org/10.1111/bjhp.12556) also stemming from my PhD project.
-
-Why should we use stories to counter anti-vaccination conspiracy theories? [Read our paper](https://doi.org/10.31234/osf.io/g5r8z).
-
-#### Open Science
-
-I am a co-founder and manager of [REPOPSI](https://www.repopsi.f.bg.ac.rs/en/), a repository established at the LIRA Lab in 2020. REPOPSI allows everyone to freely access and share open psychological scales, tests, and other research instruments translated into Serbian or developed by Serbian scientists. I led an EOSC Future and Research Data Alliance funded REPOPSI improvement [project](https://www.rd-alliance.org/eosc-future-grant-repopsi/). All of the talks and workshops I gave about REPOPSI are [here](https://zenodo.org/communities/repopsi-rda).
-
-She has also been engaged in improving the inclusivity and accessibility of open and big-team science as part of the communities such as the OSCS and ABRIR. 
-
-#### Biases in Social Dilemmas
-
-I co-founded and maintain LIRA's open access repository of psychological instruments in Serbian ([REPOPSI](https://osf.io/5zb8p/)).
-
-In my spare time, I like to draw, dabble in #SciComm, and teach myself R.
+I created this website with [{postcards}](https://github.com/seankross/postcards) and  [{distill}](https://rstudio.github.io/distill/).
