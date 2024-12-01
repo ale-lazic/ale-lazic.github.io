@@ -9,22 +9,30 @@ output:
   postcards::trestles
 ---
 
-## Public communication about vaccination and health
+## Research on public health communication
 
+<center>![](https://ucp.silverchair-cdn.com/ucp/content_public/journal/collabra/9/1/10.1525_collabra.82189/2/collabra_2023_9_1_82189_168987.jpeg?Expires=1736039250&Signature=WXH1WHnjxYDNPr-~IXIsZA0nPER4w-rEBKMN0B8iZ645GiUfUjyPtOco5LIpLv9F9ErcMP283h5NZ7CNc2FUOKwUYVkyWO-36gPjc-TI6QNLTyyKZM~Ifg4tA-rd9cZI6PLmC9Tzj1iBOS2GRaAhY0c5Bkb6h8FEXY5VLs1lEJPh0x1q7-aHK3UmvuamkrVU5yfH8MDJ5X-X6sJJnY7DtaaqK3q3YR9Y6MJatcieWpmuIT6D~SQfCPbQcT9K84xALTcT511bZGaBBKnPy40ZzeGgIZ-XCK4wu9NTrWm6memKIgEWbTqEt8LOgDm1H2ajifLcnTS6sVEIATk4rJLqrQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){width=70% height=70%}</center>
+<br>
 How do online media report about alternative medicine? [Read the paper](https://doi.org/10.1525/collabra.82189), reporting a content analysis study I led as part of the Reason4Health project. [Or try our generator random news stories!](https://perchance.org/r4h-generator-eng)
 
-How should public messaging leverage vaccination rates? And is it better to emphasize individual or social benefits of vaccination? [Read the preprint](https://doi.org/10.31234/osf.io/3h5bk) and the [paper](https://doi.org/10.1111/bjhp.12556), reporting experimental and survey studies from my PhD project.
+---
+
+<center>![](https://images.unsplash.com/photo-1691139600731-7232eaa980c3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D){width=80% height=80%}</center>
+<br>
+How should public messaging leverage vaccination rates? Is it better to emphasize individual or social benefits of vaccination? What do social norms have to do with vaccination? [Read the preprint](https://doi.org/10.31234/osf.io/3h5bk) and the [paper](https://doi.org/10.1111/bjhp.12556), reporting experimental and survey studies from my PhD project.
 
 How do online media report about vaccination rates? [Read the paper](https://psyarxiv.com/nqjb9/), reporting a content analysis study from my PhD project.
 
+---
+
 Why should we use stories to counter anti-vaccination conspiracy theories? [Read our review paper](https://doi.org/10.31234/osf.io/g5r8z).
 
+---
+
+<center>![](https://images.unsplash.com/photo-1576766125535-b04e15fd0273?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D){width=80% height=80%}</center>
+<br>
 What photos should – and shouldn't – be used in public communication about vaccination? [Find out in the blogpost](https://alelazic.blogspot.com/2020/12/good-photos-for-public-communication.html) I wrote, with links to 150 examples of good photos that are open and free to use.
 
 ---
 
 For a full list of my publications and outreach activities, please see my [CV](https://drive.google.com/file/d/11AESEI0XEXLnlMkWNHj46Z5cypaX0JGv/view).
-
-
-<center><iframe src="https://drive.google.com/file/d/11AESEI0XEXLnlMkWNHj46Z5cypaX0JGv/preview" width="420" height="340" allow="autoplay"></iframe></center>
-
