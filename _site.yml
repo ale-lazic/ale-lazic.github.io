@@ -15,5 +15,5 @@ navbar:
     - text: "#OpenScience"
       href: openscience.html
     - text: "#SocialDilemmas"
-      href: socialdilemmas
+      href: socialdilemmas.html
 output: distill::distill_article

@@ -1,0 +1,20 @@
+---
+title: "Aleksandra Lazić"
+site: distill::distill_website
+image: "al-modified.png"
+links:
+  - label: Back to Homepage
+    url: "https://ale-lazic.github.io/index.html"
+output:
+  postcards::trestles
+---
+
+## Research on biases in social dilemmas
+
+Do children and adolescents show bias towards their own group when making others better off comes at a cost to themselves? I led a meta-analysis study synthesizing evidence from 20 experimental economics studies. [Read our paper.](https://doi.org/10.31234/osf.io/uexmr) 
+
+<center>![](Figure_2.png){width=65% height=65%}</center>
+
+---
+
+For a full list of my publications and outreach activities, please see my [CV](https://drive.google.com/file/d/11AESEI0XEXLnlMkWNHj46Z5cypaX0JGv/view).

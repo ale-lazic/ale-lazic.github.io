@@ -16,15 +16,11 @@ I co-founded and have been managing REPOPSI, a repository established at the LIR
 
 In 2022-2023, I led an EOSC Future and Research Data Alliance funded REPOPSI improvement project. If words such as FAIR, TRUST, and metadata excite you, go here to [learn about REPOPSI project outputs](https://www.rd-alliance.org/eosc-future-grant-repopsi/).
 
-Even more about REPOPSI, including all of the talks and workshops I gave, are [here](https://zenodo.org/communities/repopsi-rda).
-
----
+Even more about REPOPSI, including all of the talks and workshops I gave, is [here](https://zenodo.org/communities/repopsi-rda).
 
 <center>![](https://i0.wp.com/abrirpsy.org/wp-content/uploads/2022/07/Untitled_Artwork.png?w=2048&ssl=1){width=20% height=20%}</center>
 <br>
 With the international community [ABRIR](https://abrirpsy.org/), I advocate for open and equitable big team science. Take a look at the conclusions and a database of useful resources compiled during a [hackathon](https://doi.org/10.5281/zenodo.12119309) for participants from Serbia and Bosnia-Herzegovina.
-
----
 
 <center>![](decolonising knowledge.jpg){width=40% height=40%}</center>
 

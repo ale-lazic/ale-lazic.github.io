@@ -37,8 +37,6 @@ If you want to get on my good side, ask me about my next half-marathon.
 
 For a full list of my publications and outreach activities, please see my [CV](https://drive.google.com/file/d/11AESEI0XEXLnlMkWNHj46Z5cypaX0JGv/view).
 
-<center><iframe src="https://drive.google.com/file/d/11AESEI0XEXLnlMkWNHj46Z5cypaX0JGv/preview" width="500" height="400" ></iframe></center>
-
 ---
 
 I created this website with [{postcards}](https://github.com/seankross/postcards) and  [{distill}](https://rstudio.github.io/distill/).
